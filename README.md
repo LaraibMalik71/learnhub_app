@@ -247,7 +247,7 @@ flutter test
 
 ## 👩‍💻 Developer
 
-*Laraib Malik**
+**Laraib Malik**
 
 🎓 IT Student | Flutter Developer
 
