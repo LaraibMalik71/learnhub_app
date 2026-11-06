@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1060859573830",
+    "project_id": "learn-hub-app",
+    "storage_bucket": "learn-hub-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060859573830:android:cbf699949684dc27377c47",
+        "android_client_info": {
+          "package_name": "com.example.flutter_learnhub_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJvsEtqd-tr_GFMg7h1dq1aDajcK2Gzco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
